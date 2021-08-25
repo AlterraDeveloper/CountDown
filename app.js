@@ -1,4 +1,4 @@
-var startDateTime = new Date(2021, 7, 25, 22, 0); //7 - это август))
+var startDateTime = new Date(2021, 8, 1, 20);
 
 var days = document.querySelector("#timer-days-value");
 var hours = document.querySelector("#timer-hours-value");
